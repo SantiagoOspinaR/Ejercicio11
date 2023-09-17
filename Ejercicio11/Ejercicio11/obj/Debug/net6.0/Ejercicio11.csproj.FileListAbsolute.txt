@@ -1,0 +1,14 @@
+C:\ReposiLogic\Ejercicio11\Ejercicio11\Ejercicio11\bin\Debug\net6.0\Ejercicio11.exe
+C:\ReposiLogic\Ejercicio11\Ejercicio11\Ejercicio11\bin\Debug\net6.0\Ejercicio11.deps.json
+C:\ReposiLogic\Ejercicio11\Ejercicio11\Ejercicio11\bin\Debug\net6.0\Ejercicio11.runtimeconfig.json
+C:\ReposiLogic\Ejercicio11\Ejercicio11\Ejercicio11\bin\Debug\net6.0\Ejercicio11.dll
+C:\ReposiLogic\Ejercicio11\Ejercicio11\Ejercicio11\bin\Debug\net6.0\Ejercicio11.pdb
+C:\ReposiLogic\Ejercicio11\Ejercicio11\Ejercicio11\obj\Debug\net6.0\Ejercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\ReposiLogic\Ejercicio11\Ejercicio11\Ejercicio11\obj\Debug\net6.0\Ejercicio11.AssemblyInfoInputs.cache
+C:\ReposiLogic\Ejercicio11\Ejercicio11\Ejercicio11\obj\Debug\net6.0\Ejercicio11.AssemblyInfo.cs
+C:\ReposiLogic\Ejercicio11\Ejercicio11\Ejercicio11\obj\Debug\net6.0\Ejercicio11.csproj.CoreCompileInputs.cache
+C:\ReposiLogic\Ejercicio11\Ejercicio11\Ejercicio11\obj\Debug\net6.0\Ejercicio11.dll
+C:\ReposiLogic\Ejercicio11\Ejercicio11\Ejercicio11\obj\Debug\net6.0\refint\Ejercicio11.dll
+C:\ReposiLogic\Ejercicio11\Ejercicio11\Ejercicio11\obj\Debug\net6.0\Ejercicio11.pdb
+C:\ReposiLogic\Ejercicio11\Ejercicio11\Ejercicio11\obj\Debug\net6.0\Ejercicio11.genruntimeconfig.cache
+C:\ReposiLogic\Ejercicio11\Ejercicio11\Ejercicio11\obj\Debug\net6.0\ref\Ejercicio11.dll
